@@ -7,7 +7,7 @@ A static webpage showing my favorite items on the restaurant chain "Saizeriya"'s
 2. Color Complementing
 3. Designing elements to feel like menu-card ish
 
-Link (Live Demo):
+Link (Live Demo): https://drifting-tempest.github.io/menucard_proj/
 
 Made with love,
 
